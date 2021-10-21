@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: orange;
+    font-size: 7rem;
+    margin-bottom: 0rem;
+margin-left: 1.5rem;
+   
+}
+
+h2 {
+    color: blue;
+    font-size: 4rem;
+    margin-top: 0em;
+    margin-left: .15em;
+    margin-bottom: 0;
+}
+
+.hr1 {
+    background-color: orange;
+    width: 15em;
+    height: 7px;
+    border: none;
+    margin-left: 1em;
+    margin-top: 0em;
+
+}
+
+.p1 {
+    margin-left: .5em;
+ font-size: 2rem;
+}
+
+.hr2 {
+    background-color: blue;
+    width: auto;
+    height: 3.5rem;
+    margin-right: 0rem;
+    
+}
+
+h3 {
+    color: blue;
+    font-size: 4rem;
+}
+
+.advent {
+    font-family: 'Advent Pro', sans-serif;
+}
+
+img {
+    height: 50;
+    width: 50;
+    margin-left: auto;
+}
+.orange {
+    height: 10rem;
+    width: 10rem;
+}
+.blue2{
+    width: auto;
+    height: 4rem;
+    background-color: blue;
+}
+.white{
+    color: white;
+}
